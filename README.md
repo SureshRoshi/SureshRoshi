@@ -7,25 +7,11 @@
 <li>Elecrical Engineer ⚡</li>
 <li>Tech enthusiast 🤓</li>
 </ul>
-
-
-
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-
-<h2>🤝🏻 Connect with me :</h2>
-<p align="left">
-<a href = "https://www.linkedin.com/in/suresh-roshi-050b561b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sureshroshi007"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/suresh_roshi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-<h2>❤ Views and Followers :</h2>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SureshRoshi">
-</a>
-<a href="https://github.com/SureshRoshi?tab=followers"><img src="https://img.shields.io/github/followers/SureshRoshi?label=Followers&style=social" alt="GitHub Badge"></a>
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
+    <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" />
+    <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" />
+    <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" />
+    <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" />
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"/></p><br>
