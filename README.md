@@ -11,10 +11,10 @@
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
-    <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" />
     <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/html.svg" />
     <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/css.svg" />
     <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" />
+    <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg" />
     <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/text%20editors/vscode.svg"/></p><br>
 
 
