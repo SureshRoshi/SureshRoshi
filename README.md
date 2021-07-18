@@ -7,6 +7,7 @@
 <ul>
 <li>Elecrical Engineer ⚡</li>
 <li>Tech enthusiast 🤓</li>
+<li>Cybersecurity enthusiast 💻</li>
 </ul>
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
