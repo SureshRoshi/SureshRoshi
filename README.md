@@ -4,11 +4,8 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suresh Roshi Dangeti </h1>
 
 <h2>🙂 About Me :</h2>
-<ul>
-<li>Elecrical Engineer ⚡</li>
-<li>Tech enthusiast 🤓</li>
-<li>Cybersecurity enthusiast 💻</li>
-</ul>
+<p>I'm an EE student intrested in electrical , electronics and
+also intrested in cybersecurity, web development , photography and other tech stuff.</p>
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
