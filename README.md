@@ -1,6 +1,4 @@
-![Blog, Projects and something about me](https://user-images.githubusercontent.com/61200479/126972280-558e7659-fb81-4855-88d1-862fb9e76c4c.png)
-
-
+![Untitled design](https://user-images.githubusercontent.com/61200479/126973020-8e8c01f1-93d2-4d0d-a4ad-3917a927e703.png)
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suresh Roshi</h1>
 
