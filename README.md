@@ -1,4 +1,5 @@
-![Suresh roshi](https://user-images.githubusercontent.com/61200479/125461494-afc33e34-6fa1-4434-920c-c7eaa2a0c310.png)
+![Blog, Projects and something about me](https://user-images.githubusercontent.com/61200479/126972280-558e7659-fb81-4855-88d1-862fb9e76c4c.png)
+
 
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suresh Roshi</h1>
