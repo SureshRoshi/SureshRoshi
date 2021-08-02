@@ -1,4 +1,4 @@
-![Untitled design](https://user-images.githubusercontent.com/61200479/126973020-8e8c01f1-93d2-4d0d-a4ad-3917a927e703.png)
+<!--![Untitled design](https://user-images.githubusercontent.com/61200479/126973020-8e8c01f1-93d2-4d0d-a4ad-3917a927e703.png)-->
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suresh Roshi</h1>
 
