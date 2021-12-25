@@ -4,7 +4,7 @@
 
 <h2>🙂 About Me :</h2>
 <p>I'm an EE student intrested in Electrical , Electronics and
-also intrested in CyberSecurity, WebDevelopment , Photography and other tech stuff.</p>
+also intrested in WebDevelopment , Photography and other tech stuff.</p>
 <h2>🚀 Languages and Tools :</h2>
 <p align="left">
     <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
