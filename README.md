@@ -8,8 +8,7 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Suresh Roshi</h1>
 
 <h2>🙂 About Me :</h2>
-<p>I'm an EE student intrested in Electrical , Electronics and
-also intrested in Web Development and other Tech stuff.</p>
+<p>I'm an Electrical and Electronics Engineer with a passion for web and mobile development, as well as emerging technologies like IoT</p>
 
 <!-- <h2>🚀 Languages and Tools :</h2>
 <p align="left">
