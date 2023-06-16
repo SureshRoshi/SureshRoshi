@@ -8,5 +8,5 @@
 <h1 align="center">Hola 👋🏻, I'm Suresh Roshi</h1>
 
 <h2>About Me 🙂 :</h2>
-<p>I'm an Electrical and Electronics Engineer with a passion for web and mobile development, specializing in IoT and full-stack development.</p>
+<p>I'm an Electrical and Electronics Engineer with a passion for web and mobile development, specializing in IoT and full-stack development. My expertise lies in creating web and mobile applications that seamlessly integrate with IoT devices and systems.</p>
 
